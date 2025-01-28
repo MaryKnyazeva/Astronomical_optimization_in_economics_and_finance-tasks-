@@ -1,1 +1,1 @@
-# Astronomical_optimization_in_economics_and_finance-tasks-
+# Dinomic_optimization_in_economics_and_finance-tasks-
